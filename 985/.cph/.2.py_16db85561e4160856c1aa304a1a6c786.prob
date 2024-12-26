@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\Users\\uprik\\OneDrive\\Desktop\\cp3\\985\\2.py","tests":[{"id":1731168667580,"input":"7\n3 9 2\n4 9 1\n7 9 2\n2 10 2\n154 220 2\n147 294 2\n998 24435 3\n\n","output":"2\n6\n0\n4\n0\n1\n7148\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\uprik\\OneDrive\\Desktop\\cp3\\985\\2.py","group":"local","local":true}

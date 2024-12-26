@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\Users\\uprik\\OneDrive\\Desktop\\cp3\\987\\1.cpp","tests":[{"id":1731674664603,"input":"3\n5\n5 4 3 2 1\n3\n2 2 1\n1\n1\n","output":"4\n1\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\uprik\\OneDrive\\Desktop\\cp3\\987\\1.cpp","group":"local","local":true}
